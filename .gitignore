@@ -1,0 +1,40 @@
+/__pycache__
+/instance
+/venv
+
+/migrations
+models/__pycache__
+resources/__pycache__
+# Flask
+__pycache__/
+*.pyc
+instance/
+
+# SQLAlchemy
+*.sqlite
+
+# virtualenv
+venv/
+
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Other
+*.pyc
+.DS_Store
+.flaskenv
+
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
